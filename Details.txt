@@ -8,7 +8,7 @@ Topics:
         title, descript, hrefLink
 
 2. CSS:
-   css ( direct importing ), style attribute and css modules ( alias importing )
+   css ( direct importing ), style attribute and 
 
 3. React Deployment:
     make sure no warning in react running terminal
@@ -35,3 +35,4 @@ Questions:
 
 Next Session:
   4. codesandbox
+  5. css modules ( alias importing ) 
