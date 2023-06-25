@@ -21,7 +21,7 @@ Topics:
 Questions:
   0. React Setup,
     Step 1: 
-      Choose a parent folder where You want keep the project
+      Choose a parent folder( react-applications ) where You want keep the project
     Step 2:
       npx create-react-app <app-name> // command should be run in parent folder
     Step 3:
