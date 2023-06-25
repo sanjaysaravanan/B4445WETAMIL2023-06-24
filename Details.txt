@@ -35,4 +35,4 @@ Questions:
 
 Next Session:
   4. codesandbox
-  5. css modules ( alias importing ) 
+  5. css modules
