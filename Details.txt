@@ -8,7 +8,7 @@ Topics:
         title, descript, hrefLink
 
 2. CSS:
-   css ( direct importing ), style attribute and 
+   css ( direct importing ), inline style attribute and 
 
 3. React Deployment:
     make sure no warning in react running terminal
